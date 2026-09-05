@@ -1,4 +1,4 @@
-# ✨ AirCanvas AI
+# AirCanvas AI
 
 Draw in the air using your hand gestures with real-time AI hand tracking.
 
