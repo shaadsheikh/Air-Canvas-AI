@@ -2,7 +2,7 @@
 
 Draw in the air using your hand gestures with real-time AI hand tracking.
 
-AirCanvas AI is a computer vision project built with **MediaPipe Hands** that allows users to draw on the screen using only their **index finger in the air**.
+AirCanvas AI is a computer vision project, built with **MediaPipe Hands** that allows users to draw on the screen using only their **index finger in the air**.
 
 The system tracks hand movements through the webcam and converts them into smooth glowing strokes on a digital canvas.
 
